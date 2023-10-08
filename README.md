@@ -1,6 +1,6 @@
 # IBM Data Science Proffesional Certificate
-## This repository contains the projects/assignments for courses in the IBM Data Science Professional Certificate on Coursera.
-## The professional certificate contains 9 courses. These are as follows:
+This repository contains the projects/assignments for courses in the IBM Data Science Professional Certificate on Coursera.
+The professional certificate contains 9 courses. These are as follows:
 
 + What is Data Science?
 + Tools for Data Science
