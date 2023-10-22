@@ -6,8 +6,9 @@ The professional certificate contains 9 courses. These are as follows:
 2. Tools for Data Science
 3. Data Science Methodology
 4. Python for Data Science and AI
-5. Databases and SQL for Data Science
-6. Data Analysis with Python
-7. Data Visualization with Python
-8. Machine Learning with Python
-9. Applied Data Science Capstone
+5. Python Project for Data Science
+6. Databases and SQL for Data Science
+7. Data Analysis with Python
+8. Data Visualization with Python
+9. Machine Learning with Python
+10. Applied Data Science Capstone
